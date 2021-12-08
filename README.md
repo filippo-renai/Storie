@@ -8,3 +8,5 @@ Ad ogni turno un giocatore inserisce una sua storia composta da:
 ![alt text](https://github.com/filippo-renai/Storie/blob/main/Esempio.png?raw=true)
 
 Quando i giocatori sono finiti cliccare su Giocatori finiti e si genereranno storie divertenti mischiandole!
+
+![alt text](https://github.com/filippo-renai/Storie/blob/main/Risultato.png?raw=true)
